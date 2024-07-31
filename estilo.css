@@ -1,0 +1,22 @@
+:root{
+    --cor-de-fundo:#000000;
+    --cor-da-font:#white;
+    --cor-dos-titulos:#26940A;
+    --cor-de-fundo-cabecalho:#0d8c47;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+}
+
+.conteudo1{
+    color: white;
+    font-size:18px;
+    font-family: "Inter", sans-serif;
+}
+.rodape{
+    background-color: #0d8c47;
+    color: white;
+    
+}
+
