@@ -1,8 +1,8 @@
 :root{
-    --cor-de-fundo:#ffffff;
+    --cor-de-fundo:#000000;
     --cor-da-font:#white;
     --cor-dos-titulos:#188732;
-    --cor-de-fundo-cabecalho:#000000;
+    --cor-de-fundo-cabecalho:#ffffff;
 }
 
 body{
