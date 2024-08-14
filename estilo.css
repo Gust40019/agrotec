@@ -26,3 +26,7 @@ body{
 background-position: center;
 
 }
+
+.lista-menu{
+    display: none;
+}
